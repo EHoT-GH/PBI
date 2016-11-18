@@ -1,0 +1,79 @@
+body{
+	width: 940px;
+	margin: auto;
+}
+#logo{
+	padding: 5px 5px 5px 115px;
+	margin: 0;
+}
+.logo{
+	width: 115px;
+	margin: 0;
+	float: left;
+}
+.header{
+	text-align: center;
+	vertical-align: middle;
+	height: 66px;
+	display: block;
+}
+.nav-right{
+	float: right;
+}
+
+.navbar li{
+	padding-top: 25px;
+	display: inline-block;
+	padding-right: 15px;
+}
+.navbar li a{
+	text-decoration: none;
+	color: #3E3E3F;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.mainHeadLine{
+	background-color: #050604;
+	color: #fff;
+	height: 360px;
+	vertical-align: middle;
+	text-align: center;
+}
+.mainHeadLine h1{
+	padding-top: 66px;
+	padding-bottom: 10px;
+}
+.button{
+	margin: auto;
+	width: 230px;
+	padding: 10px 20px;
+	color: #fff;
+	background-color: #4780C1;
+	border-radius: 5px;
+}
+.credLogos{
+	height: 54px;
+}
+.subscribe{
+	height: 168px;
+}
+
+.featGuests{
+	height: 468px;
+	background: #FCFCFC;
+}
+.lateEpi{
+	height: 468px;
+}
+.popEpi{
+	height: 636px;
+}
+.howTo{
+	height: 200px;
+}
+.epiFooter{
+	height: 420px;
+}
+.legal{
+	height: 16px;
+}
